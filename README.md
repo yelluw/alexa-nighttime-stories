@@ -20,9 +20,7 @@ Requires `ngrok`
 
 It's important to choose the second radio button with the following label because that's what ngrok uses:
 
-```My development endpoint is a subdomain of a 
-domain that has a wildcard certificate from a 
-certificate authority.```
+**My development endpoint is a subdomain of a domain that has a wildcard certificate from a certificate authority.**
 
 
 #### Tools
