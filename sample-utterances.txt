@@ -1,0 +1,5 @@
+ReadStoryIntent yes
+
+ReadStoryIntent sure
+
+ReadStoryIntent yes, please

@@ -1,1 +1,5 @@
-hello: Hello, {{ firstname }}
+welcome: Hello, friend. Welcome to the magical place of nighttime stories. Would you like to hear a story now?
+
+story: Today's story is titled {{title}}. {{body}} Have a good night.
+
+story_error: It seems I could not find today's story. Please try again. 
