@@ -27,7 +27,6 @@ def read_story():
 
     with open("story.json", "r") as f:
         story = json.loads(f.read())
-        print(story)
 
     if not story:
         return statement('story_error')
